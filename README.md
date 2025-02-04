@@ -7,6 +7,7 @@ git clone https://github.com/cronixXV/test-itstart
 Установите зависимости:
 
 cd test-itstart
+
 npm install
 
 Запустите проект:
